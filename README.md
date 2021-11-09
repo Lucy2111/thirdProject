@@ -1,2 +1,2 @@
 # thirdProject
-python flask test
+python test
