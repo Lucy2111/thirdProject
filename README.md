@@ -1,2 +1,2 @@
-# thirdProject
+# PythonProject
 python test
